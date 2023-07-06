@@ -1,0 +1,248 @@
+Sl. No.,Name of District,Name of Police Station,Name of Landmark,Name of Location,Name of Road,Type of Road,Sum of Fatal & Grievous Injury Crashes,Number of Fatalities,Accident Severity Index,Latitude,Longitude
+1,Thiruvananthapuram,Karamana,Pappanamcode Mosque - Kerala Gramin Bank,Pappanamcode Junction,National Highway 66 (NH 66),NH,102,15,366,8.721976699999999,77.0370562
+2,Kollam,Chavara PS,Regent Lake Palace - 110m before Hindustan Petroleum,Parimanam Temple,National Highway 66 (NH 66),NH,99,17,357,8.9559195,76.5347317
+3,Thiruvananthapuram,CITY TRAFFIC,Tax Towers - Karamana Junction,Karamana Junction,National Highway 66 (NH 66),NH,94,8,314,8.4814821,76.9668264
+4,Malappuram,KUTTIPURAM,Vyapara Bhavan - 200m after Highway Junction,Kuttipuram Highway Junction,National Highway 66 (NH 66),NH,86,12,306,10.8417455,76.0286498
+5,Thiruvananthapuram,Balaramapuram,Kodinada Junction - Indian Oil Petrol Pump,Balaramapuram Junction,National Highway 66 (NH 66),NH,92,6,300,8.4320632,77.0502803
+6,Ernakulam,ANGAMALI,HP Petrol Pump -  Angamali Junction,Angamali Junction,National Highway 544 (NH - 544),NH,83,12,297,10.1926394,76.3869289
+7,Alappuzha,KUTHIYATHODE,Jn),Thuravoor Junction,National Highway 66 (NH 66),NH,73,14,275,9.7704378,76.3203091
+8,Alappuzha,AROOR,100m before Aroor Police Station - 100m after St. Mary's Church Chandiroor,Chandiroor,National Highway 66 (NH 66),NH,68,16,264,9.8433362,76.30887589999999
+9,Alappuzha,Harippad,120m after Kunjanvathukal Temple - 120m before Karuvatta Post Office,"Ashramam, Karuvatta South",National Highway 66 (NH 66),NH,66,18,262,9.3145667,76.4333761
+10,Thiruvananthapuram,CITY TRAFFIC,East Fort KSRTC Depo Junction -  Attakulangara Junction,East Fort Junction,Mahatma Gandhi road,OR,70,10,250,10.5228735,76.2257362
+11,Kollam,Chavara PS,"Kerala Water Authority Office-Hindustan Petroleum,edappillykotta",Edapallykotta,National Highway 66 (NH 66),NH,67,16,249,9.010362899999999,76.5387076
+12,Kollam,Karunagappally PS,HP Petrol Pump - Karunagappally High School Junction,Junction,National Highway 66 (NH 66),NH,72,8,248,9.0601,76.535487
+13,Alappuzha,Aroor,"ICICI Bank ATM, Aroor - SBI Bank Aroor",Aroor Main Junction,National Highway 66 (NH 66),NH,65,14,243,9.878191,76.3038672
+14,Thiruvananthapuram,City Traffic,Overbridge Junction - East Fort KSRTC Depo Junction,Overbridge Junction,Mahatma Gandhi road,OR,67,10,241,8.4845276,76.9477422
+15,Kozhikode,TRAFFIC STATION,160m after IOC Petrol Pump - 75m after Sarovaram Road Junction,Eranjippalam Junction,National Highway 766 (NH 766),NH,64,11,236,11.279426,75.78423149999999
+16,Thiruvananthapuram,Karamana,Killipalam Junction - Bharat Petroleum Petrol Pump,Killipalam Junction,National Highway 66 (NH 66),NH,66,9,234,8.4762189,76.95998519999999
+17,Thiruvananthapuram,City Traffic,Shakthi Hospital - 200m after Pravachambalam Junction,Pravachambalam,National Highway 66 (NH 66),NH,68,4,220,8.449438899999999,77.01146469999999
+18,Kollam,OCHIRA,IOC Petrol Pump - 160m after Vavvakavu Juma Masjid,Vavvakavu Junction,National Highway 66 (NH 66),NH,61,9,219,9.100670299999999,76.5220059
+19,Kollam,KARUNAGAPPALLY,Vijaya Beer and Wine Parlour - Lalaji Junction,KSRTC Stand Karunagappally,National Highway 66 (NH 66),NH,61,9,219,9.0597934,76.5355902
+20,Kottayam,Changanachery,80m before Dhanlaxmi Bank - Dream Indane Services,Perunna Junction,National Highway 183 (NH 183),NH,61,9,219,9.4382059,76.54429350000001
+21,Thrissur,CHALAKUDI,140 mts before Kallada Travels - Chungath Tourist Home,Chalakudi South Junction,National Highway 544 (NH - 544),NH,57,13,219,10.301714,76.3369549
+22,Thiruvananthapuram,City Traffic,MGM School -  Kuzhivila Junction,Kuzhivila Junction,National Highway 66 Bypass (NH 6,NH,62,8,218,8.3440722,77.0558937
+23,Alappuzha,Pattanakkadu,"50m before The Alleppey District Cooperative Bank, Pattanakad - Govt LP
+School Pattanakkad",Pattanakkad,National Highway 66 (NH 66),NH,55,13,217,9.7284118,76.3098795
+24,Thrissur,Pudukkad,Pulickan Road Jn - Post Office Pudukad,Pudukad,National Highway 544 (NH - 544),NH,58,10,214,10.4191287,76.27032849999999
+25,Kollam,Kollam Traffic PS,300m before Ayathil Junction - 140m before Royal auditorium,Ayathil Junction,National Highway 66 Bypass (NH 6,NH,65,4,211,8.8965736,76.6354952
+26,Thrissur,Pudukkad,110 mts after Gogulam Residency - 140 m after BPCL Pump,Amballoor Junction,National Highway 544 (NH - 544),NH,66,3,210,9.8674044,76.400916
+27,Alappuzha,Nooranadu,"State Bank of India - Head Post Office, Nooranad",Nooranad,Kayamkulam - Pathanapuram (SH,SH,58,10,206,9.163739399999999,76.6429469
+28,Kozhikode,Traffic City,140m before Asten Specialty Orthopaedic Hospital-State Bank of India,Pantheerankavu,National Highway 66 Bypass (NH 6,NH,56,9,204,11.230561,75.8518447
+29,Kollam,Chadayamangalam PS,110m after State Bank of India - Dhanya Supermarket,Ayoor Junction,Main Central Road (SH 1),SH,59,7,201,8.8976966,76.86049349999999
+30,Alappuzha,NOORANADU,"Federal Bank ATM - KSEB Section Office,Charummoodu",Charummoodu,National Highway 183 (NH 183),NH,54,9,198,9.1723708,76.6080554
+31,Thiruvananthapuram,CITY TRAFFIC,Government Fine Arts College - VJT Hall Junction,Palayam,National Highway 66 (NH 66),NH,59,5,197,8.5039157,76.9510538
+32,Pathanamthitta,THIRUVALLA,110m after HP Petrol Pump - CSI Church,Thukalassery,National Highway 183 (NH 183),NH,59,4,193,9.374420899999999,76.579165
+33,Kozhikode,Traffic City,80m before Arayidathu Palam - Sowbhagya Shopping Complex,Arayidathupalam Junction,Mavoor road,OR,57,8,191,11.2589499,75.7914406
+34,Thiruvananthapuram,Attingal,Axis Bank - Attingal Municipal Service Sahakarana Bank,Alamcode Junction,National Highway 66 (NH 66),NH,53,8,191,8.7210462,76.8128136
+35,Kollam,Kollam East PS,State Bank of India - Xavier's Residency,Prathibha Junction,National Highway 744 (NH 744),NH,58,4,190,,
+36,Alappuzha,Kayamkulam,"Indus Motors,Kottukulangara - Masjid AlTaqwa",Kottukulangara,National Highway 66 (NH 66),NH,54,7,190,9.1921421,76.48667230000001
+37,Alappuzha,Harippad,SBI Harippad - 190m after Harippad Highway Junction,Harippad Junction,National Highway 66 (NH 66),NH,47,12,189,9.2798559,76.4592235
+38,Thiruvananthapuram,KALLAMBALAM,75m after ICICI Bank - Kallambalam Police Station,Kallambalam Junction,National Highway 66 (NH 66),NH,52,8,188,8.7631242,76.7913385
+39,Thrissur,KORATTI,St Marys Hospital- 210mts before Koratty Police Station,Koratty Junction,National Highway 544 (NH - 544),NH,52,8,184,10.261643,76.357222
+40,Thiruvananthapuram,City Traffic,BSNL RTTC - 50m before Pappanamcode Mosque,Kaimanam,National Highway 66 (NH 66),NH,57,3,183,8.4741182,76.9772675
+41,Kollam,Kottiyam PS,Dhanya Supermarket - State Bank of India,Kottiyam Junction,National Highway 66 (NH 66),NH,54,5,182,8.865944899999999,76.6708752
+42,Ernakulam,CITY TRAFFIC EAST,Hotel New Regency - D'Life Vyttila,Vyttila Junction,National Highway 66 (NH 66),NH,50,9,182,9.968657,76.31837999999999
+43,Alappuzha,Cherthala,70m after NEXA Cherthala - 100m before St Marys School Road Junction,"Pullattuvadakkeveli, Cherthala",National Highway 66 (NH 66),NH,55,4,181,9.6781499,76.3260992
+44,Kollam,OCHIRA,Sarada Devi Temple -  Sree Mahadeva Saw Mill,Changankulangara,National Highway 66 (NH 66),NH,47,11,181,9.1096398,76.5213648
+45,Thrissur,KUNNAMKULAM,Samsung Furniture Mart - Kunnamkulam Police Station,Kunnamkulam Junction,Thrissur - Kuttipuram Road (SH - 6,SH,47,11,181,10.6508216,76.0693366
+46,Thiruvananthapuram,CITY TRAFFIC,250m before and after Pallichal Junction,Pallichal,National Highway 66 (NH 66),NH,50,6,178,8.450037499999999,77.026113
+47,Alappuzha,Pattanakkadu,Pattanakad Grama Panchayath Office - SCUGVHSS Pattanakad,"Mahadeva Temple, Pattanakad",National Highway 66 (NH 66),NH,46,11,178,9.7307149,76.3176155
+48,Kollam,Chavara PS,Puthenthura Bakery Junction - 90m before Regency Lake Palace,Altharamoodu Junction,National Highway 66 (NH 66),NH,43,12,177,8.8869817,76.57523909999999
+49,Kottayam,ETTUMANOOR,Village Office Ettumanoor - Bus Station Entry,Ettumanoor,Main Central Road (SH 1),SH,52,5,176,9.670626,76.55788199999999
+50,Pathanamthitta,ADOOR,Central Junction - 85m after A G Town Hall,"Central Junction, Adoor",Main Central Road (SH 1),SH,54,3,174,9.1526663,76.7359616
+51,Ernakulam,AIRPORT,St.George Jacobite Syrian Chapel-  Airport Jn,Athani Junction,National Highway 544 (NH - 544),NH,51,5,173,,
+52,Alappuzha,Kayamkulam,100m before TEXMO Home Applainces - NCS TATA Motors Kayamkulam,Highway Palace Kayamkulam,National Highway 66 (NH 66),NH,47,8,173,9.1641038,76.5026518
+53,Kollam,Chavara PS,Hima Hotel - Neeendakara Bridge,Neendakara Junction,National Highway 66 (NH 66),NH,47,8,173,8.937319,76.54444339999999
+54,Thiruvananthapuram,BALARAMAPURAM,"Poonkodu Mulluvila Sree Bhadrakali Temple - 50m after Mahindra First Choice
+Wheels Ltd",Vedivechancoil,National Highway 66 (NH 66),NH,52,4,172,8.430338299999999,77.0319784
+55,Alappuzha,Mararikkulam,50m after Sacred Heart Church - Mayithara Market,Mayithara,National Highway 66 (NH 66),NH,48,8,172,9.6459846,76.33767859999999
+56,Thiruvananthapuram,City Traffic,"170m before Kulathoor NH BypassJunction - 100m after South Indian Bank, NH
+Bypass Kulathoor",Kulathoor NH Bypass Junction,NH 66 Bypass Road,NH,49,6,171,8.3319382,77.0967357
+57,Alappuzha,Kareelakulangara,Sree Dharma Sastha Temple - 120m after Ramapuram Junction,Ramapuram Junction,National Highway 66 (NH 66),NH,41,13,171,9.2225881,76.4769585
+58,Thiruvananthapuram,ATTINGAL,"South Indian Bank -  Kerala Gramin Bank, Attingal",Attingal,National Highway 66 (NH 66),NH,50,5,170,8.6982226,76.8136569
+59,Alappuzha,Mararikkulam,"Mararikulam North Panchayat Office - 50m after S L Puram Cooperative
+Bank,Kanjikuzhy",Mararikulam,National Highway 66 (NH 66),NH,52,3,168,9.598735999999999,76.3116235
+60,Thrissur,THRISSUR TRAFFIC PS,70m after HDFC Bank - 90m after Dhanalaxmi Bank ATM,Punkunnam Junction,Thrissur - Kuttipuram Road (SH - 6,SH,49,6,167,10.5352845,76.201512
+61,Pathanamthitta,THIRUVALLA,140m Deepa Junction- 50m after Malabar Gold andDiamonds,Deepa Junction,National Highway 183 (NH 183),NH,49,5,167,,
+62,Thiruvananthapuram,City Traffic,Muslim Jamaath - State Bank of India Kallampally,Sreekaryam,National Highway 66 (NH 66),NH,50,4,166,8.5467708,76.9163841
+63,Thrissur,Thrissur Town East,Swaraj Round North Junction - Vadakke Bus Stand,Cochin Dewaswam Boad Junction,Kodungalloor - Shornur Road (SH,SH,51,3,165,9.9312328,76.26730409999999
+64,Kollam,Parippally PS,50m after Ruby Arabian Food Court - Prince Auditorium,Paripally,National Highway 66 (NH 66),NH,44,9,164,8.812348799999999,76.7588672
+65,Alappuzha,Vallikunnam,50m before South Indian Bank - IPC Bethel Church,Kattanam,Kayamkulam - Pathanapuram (SH,SH,50,3,162,9.1788593,76.56471739999999
+66,Thrissur,Pudukkad,Plaza,Paliyekara,National Highway 544 (NH - 544),NH,50,3,162,10.445455,76.2582941
+67,Thiruvananthapuram,City Traffic,School,Valiyathura,Valiyathura - Muttathara Road,OR,50,3,162,8.4646156,76.9275756
+68,Alappuzha,Punnapra,Punnapra North Post Office - Punnapra Brethren Assembly Church,Paravoor Junction,National Highway 66 (NH 66),NH,43,9,161,10.1196528,76.3428838
+69,Kottayam,Gandhinagar,70m after District Sports Council Office - District Homeo Hospital,Nagampadam,Main Central Road (SH 1),SH,39,11,161,9.596799899999999,76.5249419
+70,Palakkad,VADAKKENCHERRY,130m after Gayathry Fuels Petrol Pump - 140m after Mangalam Bridge,Mangalam Palam,National Highway 544 (NH - 544),NH,39,11,161,10.6028666,76.49245499999999
+71,Kollam,CHAVARA,60m after SBI ATM - 50m after Post Office Chavara Bridge,Chavara,National Highway 66 (NH 66),NH,45,7,159,8.9908056,76.5404387
+72,Thiruvananthapuram,CITY TRAFFIC,50m before Govt HS Vazhamuttam - Thuppanathu Kavu Devi Temple,Vazhamuttam,National Highway 66 Bypass (NH 6,NH,46,5,158,9.2395911,76.77693239999999
+73,Pathanamthitta,PATHANAMTHITTA,"140m before IOC Pump - 70m before Federal Bank, Kumbazha",Kumbazha,State Highway 8,SH,47,4,157,9.2677634,76.8057776
+74,Alappuzha,HARIPPAD,K V Jetty Junction- 50m before Puthenpurayil Fm Tyre Haripad,"Kumarapuram, Thamallackal",National Highway 66 (NH 66),NH,39,10,157,9.2870226,76.4201523
+75,Kottayam,KURAVILANGADU,180m before Thottuva Junction - 240m after Bharath Timbers,Thottuva,Kuruvilangad Kuruppunthara Road,OR,48,3,156,10.1640821,76.4860252
+76,Kollam,Kottiyam PS,Pattathil Road Junction - Overseas Honda,Mylakkad,National Highway 66 (NH 66),NH,44,6,156,8.8702016,76.68891359999999
+77,Kollam,KARUNAGAPPALLY,"50m before Puthiyakavu Junction - 80m after  Sheikh Masjid, Puthiyakavu",Puthiyakavu Junction,National Highway 66 (NH 66),NH,44,6,156,9.9245038,76.3597444
+78,Kottayam,CHINGAVANAM,Kerala State Beverages Corporation Ltd - 150m after Axis Bank ATM,Kodimatha,National Highway 183 (NH 183),NH,44,6,156,9.5794036,76.5197573
+79,Alappuzha,Harippad,50m before SBI ATM - 180m before Karthikapally CARD BANK,"Danapady Junction, Haripad",National Highway 66 (NH 66),NH,40,10,156,9.283317,76.4442711
+80,Thrissur,KORATTI,Ottupura Clay House- New Narasimhamoorthy Temple,Muringoor,National Highway 544 (NH - 544),NH,45,7,155,10.2834371,76.3420206
+81,Kottayam,Changanassery,80m after Divine Nagar Road Junction - 150m before SBI ATM,Valiyakulam,Karukachal - Changassery Road,OR,41,8,155,9.4796398,76.32935599999999
+82,Ernakulam,Traffic East PS,Kundanoor Service Road Junction- Nettoor Jn,Kundannoor Bridge,National Highway 66 (NH 66),NH,50,1,154,9.9360278,76.3076546
+83,Kollam,TRAFFIC PS QUILON,"120m before Canara Bank, Thattamala - KTM Showroom",Thattamala,National Highway 66 (NH 66),NH,46,4,154,8.871755499999999,76.6390251
+84,Alappuzha,Ambalapuzha,BKM Hospital - 50m after Payalkulangara Sree Devi Temple,Near Ambalappuzha Junction,National Highway 66 (NH 66),NH,43,6,153,9.3833998,76.3552199
+85,Kottayam,TRAFFIC PS KOTTAYA,Supreme Computer Systems - Eranjal Road Junction,Kanjikuzhy,National Highway 183 (NH 183),NH,48,2,152,9.939703399999999,76.9354979
+86,Kottayam,CHANGANASSERY,Mulamoottil Gold Loan - Maruthi Suzuki Servicing Center,Thuruthy,Main Central Road (SH 1),SH,37,11,151,9.4830705,76.5257654
+87,Thiruvananthapuram,CITY TRAFFIC,New Rajasthan Marbles - Aryankuzhy Kamaleswaram Road Junction,Muttathara,National Highway 66 Bypass (NH 6,NH,46,3,150,8.463835000000001,76.93943879999999
+88,Alappuzha,Aroor,Road,Chandiroor,National Highway 66 (NH 66),NH,38,11,150,9.8433362,76.30887589999999
+89,Kollam,TRAFFIC PS QUILON,110m after Asramam Masjid - 60m after Uliyakovil Road Junction,Asramam,Asramam Road,OR,43,5,149,8.8962934,76.590722
+90,Thrissur,Traffic Thrissur,150m before Sakthan Thampuran Bus Stand- 150m after DENA Bank,Sakthan Thampuran Round About,Municipal Office Road,OR,43,5,149,10.5311744,76.21589569999999
+91,Kottayam,Ettumanoor,Pandarakalam Finance Private Ltd - State Bank of India,Athirampuzha,Ettumaanoor - Athirampuzha Road,OR,44,4,148,9.6679,76.53295229999999
+92,Malappuram,THIROOR,SBI Thazhepalam - IndusIND Bank,Chembra,State Highway 71 (SH 71),SH,44,4,148,11.5117547,76.0887015
+93,Thiruvananthapuram,City Traffic,Chaitanya Eye Hospital - St Mary's School,Keasavadaspuram,National Highway 66 (NH 66),NH,44,4,148,8.5297279,76.9384453
+94,Alappuzha,CHENGANNOOR,Anjalimoodu Junction - Mathews Mar Athanasius Residential Central School,Anjalimoodu Junction,National Highway 183 (NH 183),NH,40,7,148,9.3029607,76.62642
+95,Ernakulam,CITY TRAFFIC EAST,90m after Mumbiath Road Junction - 110m after PHC,Cheranalloor,National Highway 66 (NH 66),NH,45,3,147,10.176785,76.475106
+96,Ernakulam,Elamakkara,Edapally Cooperative Bank - 40m before Bhima Jewellers,Edapally,National Highway 66 (NH 66),NH,45,3,147,10.0260688,76.3124753
+97,Ernakulam,PERUMBAVOOR,Seemas Wedding Collection - Federal Bank,Perumbavoor,State Highway 16 (SH 16),SH,42,5,146,10.1146301,76.4777526
+98,Ernakulam,ALUVA,50m before Vellamparambhu Road Junction - 70m after South Indian Bank ATM,Paravoor Junction,National Highway 544 (NH - 544),NH,42,5,146,10.1196528,76.3428838
+99,Thiruvananthapuram,City Traffic,Kerala State IT Mission - 60m affter South Indian Bank,Vellayambalam,State Highway 2 (SH 2),SH,42,5,146,8.508626,76.96574629999999
+100,Ernakulam,KALADI,240m before SBI ATM - Krishi Bhavan,Mattoor,Main Central Road (SH 1),SH,43,4,145,10.170628,76.4296056
+101,Kozhikode,Feroke,70m before Kerala Gramin Bank - 80m before Parammal Road Junction,Ramanattukara,National Highway 66 (NH 66),NH,39,7,145,11.1895489,75.8698069
+102,Ernakulam,CITY TRAFFIC WEST,ICICI Bank - Air Arabia,Atlantis Junction,Mahatma Gandhi road,SH,44,3,144,9.9556378,76.2922342
+103,Kozhikode,TRAFFIC STATION,50m before Chinmaya Road Junction - 110m after Thondayad Junction,Thondayad,Mavoor Road,OR,40,6,144,11.2662495,75.8055603
+104,Ernakulam,CITY TRAFFIC EAST,Kalamassery Metro Station - 110m after SBI Kalmassery,Kalamassery,National Highway 544 (NH - 544),NH,40,6,144,10.0531493,76.3528075
+105,Pathanamthitta,Konni,South Indian Bank - Muthoot Finance,Konni,State Highway 8,SH,45,2,143,9.2267063,76.8496779
+106,Pathanamthitta,THIRUVALLA,"310m after Mannankarachira Public Library - 210m before ISKCON Sri Krishna
+Temple Thiruvalla",Kavumbhagom,Kavumbhagam - Muthoor road,OR,45,2,143,9.3773125,76.5577143
+107,Thiruvananthapuram,City Traffic,"Manacaud Junction - 110m after Federal Bank,Manacaud",Manacaud,Trivandrum Vizhinjam Rd,OR,42,4,142,8.4718533,76.9517797
+108,Kozhikode,TRAFFIC STATION,Bishop House - Santhi Bhavan BSS Colony,Malaparamba,National Highway 66 Bypass (NH 6,NH,38,8,142,11.285678,75.8114528
+109,Kollam,Kollam Traffic PS,Yes Bank - RP Mall,Kachery Junction,National Highway 66 (NH 66),NH,38,7,142,8.889506200000001,76.5859199
+110,Thiruvananthapuram,CITY TRAFFIC,125m before Junction - IOC Petrol Pump,Vellayani Junction,National Highway 66 (NH 66),NH,39,6,141,8.4575994,76.9997668
+111,Kollam,Sakthikulangara PS,Poovanpuzha Devi Temple - Govt School Road Jn,Kureepuzha,National Highway 66 (NH 66),NH,35,9,141,8.9182165,76.574302
+112,Thiruvananthapuram,ATTINGAL,Kalyan Silks - HP Pump,Attingal,National Highway 66 (NH 66),NH,44,2,140,8.6982226,76.8136569
+113,Alappuzha,Kayamkulam,250m after ONK Jn - Indus Motors,Kayamkulam,National Highway 66 (NH 66),NH,41,5,139,9.174842199999999,76.50133520000001
+114,Alappuzha,AMBALAPUZHA,200m after SVD UP School - 200m after BP Pump,Purakkad,National Highway 66 (NH 66),NH,41,5,139,9.3535126,76.3652512
+115,Thrissur,Thrissur Town West,Thrissur District Co-Operative Bank- Westfort Jn,West Fort Junction,West Fort Road,OR,41,4,139,10.522149,76.2021724
+116,Thiruvananthapuram,CITY TRAFFIC,Vattiyoorkavu Juma Masjid - Thoppumukku Junction,Vattiyoorkavu Junction,Vattiyoorkavu - Puliyarakonam Ro,OR,41,4,139,8.524137099999999,76.9881752
+117,Kollam,Kottiyam PS,110m after IOC Petrol Pump - Sitara Junction,KIMS Kottiyam,National Highway 66 (NH 66),NH,38,6,138,8.864681200000001,76.6813641
+118,Thiruvananthapuram,Attingal,"Yamuna & Kaveri Theatres - Bharath Petroleum Pump, Mamom",Mamom,National Highway 66 (NH 66),NH,39,5,137,28.04303824942533,79.47221735962242
+119,Kollam,KUNDARA,St Antony's Shrine - Kundara Railway Station,Mukkada Junction,National Highway 744 (NH 744),NH,39,5,137,8.9578446,76.67384419999999
+120,Malappuram,Thenhipalam,Kalarickaliyettu Durga temple- KINFRA,Kakkanchery,National Highway 66 (NH 66),NH,35,8,137,11.1556686,75.891155
+121,Thrissur,Pudukkad,60 mts after Jancy Raod Jn - SBI ATM Thalore,Thalore,Thrissur - Thalore Road (High Roa,SH,36,8,136,10.4546512,76.2535486
+122,Ernakulam,CITY TRAFFIC WEST,Cherukulam Rd Jn - Panchayath Raj Rd Jn,Palluruthy,Aroor - Thoppumpady road,SH,45,0,135,9.9215812,76.2735721
+123,Kottayam,PALAI,Hotel Bion - Lalam Bridge Junction,Lalam Bridge,Main Eastern Highway (SH 8),SH,41,3,135,,
+124,Ernakulam,CITY TRAFFIC EAST,Le Meridian - Audi Kochi,Kundanoor Junction,National Highway 66 (NH 66),NH,41,3,135,9.944636599999999,76.31451880000002
+125,Kollam,CHAVARA,Vijaya Palace -  Star Bike Workshop,Nallezuthu Junction,National Highway 66 (NH 66),NH,38,5,134,8.9847975,76.5306878
+126,Ernakulam,CITY TRAFFIC EAST,Hotel Malabar Illam - Tata Motors,Chalikkavattom,National Highway 66 (NH 66),NH,34,9,134,9.9810576,76.3247705
+127,Ernakulam,ALUVA,Tamarind Rajadhani - Pulinchuvadu Metro Station,Pulinchuvadu,National Highway 544 (NH - 544),NH,39,4,133,9.759754899999999,76.4009854
+128,Ernakulam,CITY TRAFFIC EAST,PVS Hospital - Mathrubhumi Junction,Kaloor Junction,Banerji Road,SH,39,4,133,9.9950461,76.2921432
+129,Ernakulam,CITY TRAFFIC EAST,Decathlon - Chambakkara River Bridge,Thykoodam,National Highway 66 (NH 66),NH,39,4,133,9.9572153,76.3217567
+130,Alappuzha,Aroor,"Muthoot, Eramalloor - 50m before Madeena Supermarket",Eramalloor,National Highway 66 (NH 66),NH,35,8,133,9.8234702,76.3111052
+131,Idukki,THODUPUZHA,Smitha Hospital -Vengalloor School Road Junction,Vengalloor,Punalur - Muvattupuzha Road (SH,SH,41,2,131,9.9099795,76.7033471
+132,Ernakulam,CITY TRAFFIC EAST,"Nest, CUSAT Junction - 70m after Town Hall",South Kalamassery Junction,National Highway 544 (NH - 544),NH,41,2,131,10.0507697,76.3200956
+133,Thiruvananthapuram,City Traffic,Ranigiri Church - State Bank of India,Mananthala Junction,Main Central Road (SH 1),SH,41,2,131,8.5607378,76.94324069999999
+134,Kollam,Sakthikulangara PS,Central Bank of India - 70m after NSS karayogam,Kavanad,National Highway 66 (NH 66),NH,37,5,131,8.9190445,76.5595359
+135,Thiruvananthapuram,Kilimanoor,Indian Overseas Bank - Erapil Road Junction,Kilimanoor Junction,Main Central Road (SH 1),SH,37,5,131,8.769851,76.8811941
+136,Thrissur,CHALAKUDI,100 mts before Mini Civil Station - CSI St Johns Church,Court Jn,National Highway 544 (NH - 544),NH,37,5,131,,
+137,Ernakulam,Kalamassery,"St Mary's Church - Nest, CUSAT Junction",TVS Junction,National Highway 544 (NH - 544),NH,37,5,131,10.1269313,76.3091299
+138,Thiruvananthapuram,City Traffic,180m before Thiruvallom Junction - Maruti Suzuki True Value,Thiruvallom Junction,National Highway 66 Bypass (NH 6,NH,38,5,130,8.4478996,76.9556643
+139,Thiruvananthapuram,CITY TRAFFIC,NHAI RO Kerala - 80m after Pettah Junction,Pettah Junction,Palayam Airport road,OR,34,7,130,6.9367858,79.8525385
+140,Kozhikode,TRAFFIC STATION,Rajaji Rd Jn -Stadium Junction,Moffusil Bus Stand,Rajaji road,OR,39,3,129,11.2579019,75.78747349999999
+141,Thiruvananthapuram,Kazhakkuttom,AJ Hospital Junction - Canara Bank,Kazhakuttom Junction,National Highway 66 (NH 66),NH,39,3,129,8.566029799999999,76.87474999999999
+142,Alappuzha,KUTHIYATHODE,Kelamkulangara Bhagavathi Temple - Upasana Auditorium,Kuthiathode,National Highway 66 (NH 66),NH,35,6,129,9.7934071,76.3159664
+143,Kozhikode,Vatakara,Marble Mahal - Arya Bhavan Hotel,Narayana Nagar,National Highway 66 (NH 66),NH,40,2,128,12.883589,77.554711
+144,Thiruvananthapuram,CITY TRAFFIC,50m after Ananthapuri Hospital - Hotel Pallava Rajadhani,Chakka,National Highway 66 Bypass (NH 6,NH,40,2,128,8.483049399999999,76.9316209
+145,Ernakulam,ALUVA,Pulinchuvadu Metro Station - Forest Industries Ltd,Companypadi Junction,National Highway 544 (NH - 544),NH,36,5,128,10.0886928,76.34328699999999
+146,Kollam,PARIPPALLY,Mukkada Junction - Highway Motors,Mukkada Junction,National Highway 66 (NH 66),NH,32,8,128,8.9578446,76.67384419999999
+147,Kollam,OCHIRA,Hotel Royal Regency - IOC Pump,Oachira Junction,National Highway 66 (NH 66),NH,37,4,127,9.125517199999999,76.5097205
+148,Ernakulam,CITY TRAFFIC EAST,Olive Furniture - Hotel Highway Garden,Oberon Mall,National Highway 66 (NH 66),NH,37,4,127,10.0144008,76.3122569
+149,Thiruvananthapuram,CITY TRAFFIC,Sree Balakrishna Swamy Temple - Paruthikuzhy Junction,Paruthikuzhy Junction,National Highway 66 Bypass (NH 6,NH,37,4,127,8.4515292,76.94553499999999
+150,Thiruvananthapuram,KALLAMBALAM,250m before and after 28th mile,28th Mile,National Highway 66 (NH 66),NH,38,3,126,-32.2418355,116.1191283
+151,Thrissur,Kodungallur,Kodungallur Municipal Townhall - Kodungalloor Islahi Masjid,Chandapura Signal Junction,National Highway 66 (NH 66),NH,38,3,126,12.8017099,77.7116112
+152,Wayanad,Sulthan Batheri,Ganapathy Temple Jn - 120m before Chungam Junction,Temple Jn,National Highway 766 (NH 766),NH,38,3,126,9.5997582,76.5173131
+153,Ernakulam,CITY TRAFFIC EAST,70m after SBI - 270m before Geetanjali Junction,Chakkaraparambu Junction,National Highway 66 (NH 66),NH,38,3,126,9.9898476,76.31886159999999
+154,Ernakulam,CITY TRAFFIC EAST,Edapally Toll Junction - 50m after Indian Oil Petrol Pump,Edapally Toll Junction,National Highway 544 (NH - 544),NH,38,3,126,10.023229,76.3090901
+155,Thiruvananthapuram,Kazhakkuttom,60m before Hero Motors - AJ Hospital Junction,AJ Hospital Junction,National Highway 66 (NH 66),NH,38,3,126,12.8993521,74.8460278
+156,Ernakulam,KALADI,150m before Hotel Kadambari - 140m before Parackal Timber Trust,Marottichuvadu,Main Central Road (SH 1),SH,34,7,126,10.0224919,76.3159664
+157,Malappuram,VALANCHERRY,Kerala Gramin Bank - Syndicate Bank ATM,Valanchery Junction,National Highway 66 (NH 66),NH,36,6,124,10.8877717,76.0732189
+158,Kottayam,Traffic Kottayam,Junction,Logos Junction,Railway station road,OR,36,4,124,9.5915841,76.5320824
+159,Kollam,Parippally PS,"180m before Nadakkal Service Coop Bank - 75m after Kalluvathukal Grama
+Panchayath Office",Kalluvathukkal Junction,National Highway 66 (NH 66),NH,32,7,124,8.8325842,76.74539209999999
+160,Thiruvananthapuram,CITY TRAFFIC,SBI - Bridge near Infosys,Infosys,National Highway 66 Bypass (NH 6,NH,41,0,123,,
+161,Thrissur,Traffic Thrissur,Marar Road Junction - Chettiyangadi Junction,Kurupam Road Junction,Kodungalloor - Shornur Road (SH,SH,37,3,123,18.8498904,83.5285871
+162,Thrissur,PERAMANGALAM,Mundur Service Co-Operative Bank - 50m before Federal Bank,Mundur Junction,Thrissur - Kuttipuram Road (SH - 6,SH,37,3,123,10.8364992,76.5801338
+163,Ernakulam,CITY TRAFFIC EAST,Sri Muruga Saravana Bhavan - 70m after D.T.D.C.,Kunnumpuram Junction,National Highway 66 (NH 66),NH,38,2,122,10.0433085,76.29893659999999
+164,Kollam,Chathannoor PS,70m before Arunodhayam Auditorium - 50m after Federal Bank ATM,Chathanoor Junction,National Highway 66 (NH 66),NH,31,9,121,8.8622508,76.7233631
+165,Kollam,PUNALUR,BP Fuel Station - Kumar Palace Road Jn,"TB Jn, Punalur",National Highway 744 (NH 744),NH,31,7,121,9.0176117,76.9260936
+166,Kottayam,Kuravilangadu,School,Kuravilangad,Main Central Road (SH 1),SH,36,5,120,9.757589,76.5610256
+167,Ernakulam,Perumbavoor,Iringole Post Office - St. Thomas Church,"RTO Office, Iringole",State Highway 16 (SH 16),SH,36,3,120,10.1159686,76.49568550000001
+168,Kollam,Killikollur,Catholic Syrian Bank - 140m after KJ Hospital,Moonam kutti,National Highway 744 (NH 744),NH,36,3,120,8.9100367,76.6257475
+169,Thiruvananthapuram,City Traffic,"Vettukad Church -  St. Mary's Church, Cheruvettukad",Vettukad,Veli - Shankhumugham road,OR,36,3,120,8.4964792,76.9016845
+170,Thrissur,PERAMANGALAM,"130m after Cheerakuzhy Subramania Temple - Adat Farmers Service Co
+Operative Bank",Amala Nagar,Thrissur - Kuttipuram Road (SH - 6,SH,32,8,120,10.5634768,76.1677363
+171,Kozhikode,TRAFFIC STATION,"KSEB Electrical Section, Pottammal- Abeer Medical Center",Pottamal Junction,Mavoor Road,OR,32,6,120,11.2600276,75.8081509
+172,Kollam,KOTTIYAM,80m before HM Shopping Mall - 210m after Kannanalloor Junction,Kannanalloor,Kollam - Ayoor road,OR,37,2,119,8.8935555,76.68241789999999
+173,Kozhikode,TRAFFIC STATION,Mango Hypermarket - Salafi Masjid,Mankavu Junction,Mini Bypass road,SH,37,2,119,11.2362116,75.8041394
+174,Kozhikode,TRAFFIC STATION,Kunnamangalam UP School - Daymart Supermarket,Kunnamangalam,National Highway 766 (NH 766),NH,37,2,119,11.30493,75.87705199999999
+175,Thiruvananthapuram,CITY TRAFFIC,250m before and after Petrol Pump,Thiruvallam Bridge Approach,National Highway 66 Bypass (NH 6,NH,37,2,119,8.4478996,76.9556643
+176,Kozhikode,TRAFFIC STATION,YMCA Cross Road Junction - Kozhikode District Co Operative Bank,Mavoor Road Junction,National Highway 766 (NH 766),NH,33,5,119,11.2589488,75.78057079999999
+177,Thiruvananthapuram,Kazhakkuttom,TRINS PreSchool - Technopark MainGate,Technopark Junction,National Highway 66 Bypass (NH 6,NH,33,5,119,8.5580967,76.88156049999999
+178,Kottayam,TRAFFIC PS KOTTAYA,Seematti Roundabout - Dhanya Remya Theatre,Mahatma Gandhi Square,National Highway 183 (NH 183),NH,38,1,118,8.891491,76.6036987
+179,Kollam,KILIKOLLOOR,Killikollur Railway Station -70m after Kairali Ford,Killikollur Junction,National Highway 744 (NH 744),NH,34,4,118,8.9148435,76.6303161
+180,Thiruvananthapuram,Venjarammood,Alanthara Petrol Pump - Indian Coffee House,"Gokulam Medical College
+Junction, Alanthara",Main Central Road (SH 1),SH,34,4,118,8.6888154,76.9064519
+181,Ernakulam,CITY TRAFFIC WEST,50m before St Thomas More Roman Catholic Latin Church - Janatha Junction,Kumbalangi,Aroor - Thoppumpady road,SH,34,4,118,9.8760584,76.2870781
+182,Alappuzha,Kuthiathode PS,"Pattukulangara Devi Temple - Indian Coffee House, Thuravoor",Thuravoor,National Highway 66 (NH 66),NH,30,8,118,9.7704378,76.3203091
+183,Alappuzha,Punnapra,CSI Church - Carmel Road Junction,"Carmel College Of Engineering,
+Aravukad",National Highway 66 (NH 66),NH,30,7,118,9.438325599999999,76.3426825
+184,Ernakulam,North Parur,Bank of India ATM - 50m before Kairali Motors,Perumpadanna,Republic Road,OR,35,3,117,10.1422483,76.2156826
+185,Thiruvananthapuram,Vattappara,85m after HP Fuel Station - 85m before Yamaha Showroom,Kanyakulangara Junction,Main Central Road (SH 1),SH,35,3,117,8.6299051,76.9368728
+186,Thrissur,Thrissur Town West,Society,"Kalyan Nagar, Ayyanthole",Thrissur - kanjani - Vadanapally Ro,SH,35,3,117,10.5209815,76.19141499999999
+187,Thrissur,Irinjalakkuda,50 mts before Vellangallur Jn - Glamour Fuels Indian Oil,Vellangallur,Kodungalloor - Shornur Road (SH,SH,35,3,117,10.3030639,76.2090068
+188,Alappuzha,Punnapra,"Assembly Road Junction - IOC Pump, Punnapra","Kappakada,Punnapra",National Highway 66 (NH 66),NH,31,6,117,9.4400956,76.3433635
+189,Thrissur,KORATTI,Kerala Gramin Bank- 60ms before IOC pump,Chirangara,National Highway 544 (NH - 544),NH,31,6,117,10.2544156,76.36806960000001
+190,Palakkad,Traffic Palakkad,220m before Kazchaparambu Junction - Dubai Motors,Kazchaparambu Junction,National Highway 544 (NH - 544),NH,23,14,117,10.7399,76.6467662
+191,Thrissur,Traffic Thrissur,District Medical Office - KFC,Ambakkaden Jn,Thrissur - Palghat Road,OR,36,2,116,,
+192,Thiruvananthapuram,City Traffic,Karakkamandapam Junction - 100m before Indian Oil Petrol Pump,Karakkamandapam Junction,National Highway 66 (NH 66),NH,36,2,116,8.4578981,76.9993734
+193,Thiruvananthapuram,CITY TRAFFIC,Poonthura Junction - SM Lock Junction,Poonthura Junction,Valiyathura - Beemapally - Poonth,OR,36,2,116,8.4436796,76.9439755
+194,Ernakulam,MUVATTUPUZHA,40m after Karshika Sahakarana Bank - Nehru Junction,Velloorkunnu Signal Junction,National Highway 85 (NH 85),NH,32,5,116,10.0047378,76.5473781
+195,Kottayam,KURAVILANGADU,100m after Vempally Post Office - Vempally Thekkekavala,Vempally,Main Central Road (SH 1),SH,32,5,116,9.713324499999999,76.55893789999999
+196,Kozhikode,QUILANDY,Namdilath G Mart - Indian Oil Petrol Pump,Koyilandy Old Bus Stand Junction,National Highway 66 (NH 66),NH,32,5,116,11.4428699,75.6976443
+197,Thiruvananthapuram,Varkala,Indian Overseas Bank - Dhanya Supermarket,Varkala,State Highway 64,SH,28,8,116,8.7378685,76.71633589999999
+198,Ernakulam,CITY TRAFFIC WEST,50m after Bridge - IG Office,High Court Signal Junction,Shanmugam road,OR,37,1,115,9.983779199999999,76.27395059999999
+199,Kollam,Shakthikulangara P S,40m after Kaloor Bhagavathy Temple - Ramankulangara Junction,Ramankulangara,National Highway 66 (NH 66),NH,33,4,115,8.9080804,76.5607607
+200,Kozhikode,TRAFFIC STATION,BSNL Exchange Feroke - AM Motors,"Chungam Junction, Feroke",National Highway 66 (NH 66),NH,29,7,115,11.1839529,75.84377239999999
+201,Thrissur,KUNNAMKULAM,"Post Office, Kadavalloor - 255m after Kallumpuram Junction",Kallumpuram,Thrissur - Kuttipuram Road (SH - 6,SH,17,1,115,10.7220248,76.07835039999999
+202,Ernakulam,Aluva,Hotel Periyar - Market Junction,Aluva Junction,National Highway 544 (NH - 544),NH,34,4,114,10.1003709,76.35703819999999
+203,Alappuzha,AROOR,"Primary Health Centre,Aroor  - Keltron Road Jn","Temple Junction, Aroor",National Highway 66 (NH 66),NH,34,3,114,9.878191,76.3038672
+204,Kollam,Kottiyam PS,Salafi Masjid Mosque - 175m after Mubarak Plywood and Hardwares,Umayanalloor Junction,National Highway 66 (NH 66),NH,34,3,114,8.8651298,76.6544997
+205,Ernakulam,Traffic East PS,Kannanthodath Lane Junction - Modern Food Enterprises,Changampuzha Junction,Palarivattom -  Edapally Road,SH,34,3,114,,
+206,Thrissur,VADANAPPILLY,80mts before St. Marys Church 10 th stone- Thalikkulam Village Office,Patham Kallu,National Highway 66 (NH 66),NH,30,10,114,10.4116397,76.1745268
+207,Kollam,CHATHANNOOR,70m before Ithikkara Juma Masjid - 55m after Perfect Car Painting Shop (Curve),Ithikkara Junction,National Highway 66 (NH 66),NH,30,7,114,8.8636108,76.69951929999999
+208,Alappuzha,Harippad,110m after Hotel Saugandhika Residency - 50m before South Indian Bank ATM,Junction,National Highway 66 (NH 66),NH,30,6,114,9.0601,76.535487
+209,Kottayam,CHINGAVANAM,Chingavanam Bretheren Church Road Junction - 90m before Canara Bank,"Manthiran kavala, Kurichy",National Highway 183 (NH 183),NH,35,2,113,40.937607,24.412866
+210,Ernakulam,CITY TRAFFIC WEST,Pyari Junction - St. Mary's Syrian Church palluruthy,BOT Bridge Junction,Aroor - Thoppumpady road,SH,35,2,113,9.9312763,76.2673117
+211,Alappuzha,Ambalapuzha,325m before and 125m after Sree Kuruttu Bhagavathy Temple,Thottappally Juma Masjid,National Highway 66 (NH 66),NH,31,5,113,9.3286226,76.37652539999999
+212,Kozhikode,Koyilandy,120m after JB's Art Gallery - 140m after Vengalam Junction,Vengalam Highway Junction,National Highway 66 (NH 66),NH,23,11,113,11.3690986,75.7398348
+213,Kollam,Kollam East PS,St Thomas Syrian Church - Christuraj School,Chemmanmukku,Kappalandimukku - Kadappakkada,OR,32,5,112,8.886073,76.60522929999999
+214,Ernakulam,CITY TRAFFIC EAST,Axis Bank and ATM - Federal Bank,Koonamthai,National Highway 544 (NH - 544),NH,32,5,112,10.0332953,76.3130712
+215,Ernakulam,NORTH PARUR,St Antony's Church - 70m before Cheriyapally Bridge Approach,Cheriyapally Bridge,National Highway 66 (NH 66),NH,32,4,112,,
+216,Pathanamthitta,THIRUVALLA,LP School - 200m after Hospital Road Junction,Aashupathrippadi,Thiruvalla - Mallappally Road (SH,SH,32,4,112,9.8343793,76.74413539999999
+217,Thrissur,PERAMANGALAM,Co Operative Bank - 130m after Kerala Gramin Bank ATM,Kaiparambu Junction,Thrissur - Kunnamkulam Road (SH,SH,32,4,112,10.6085768,76.1383628
+218,Thiruvananthapuram,CITY TRAFFIC,120m before Pananvila Junction - MG College Gate,Paruthippara Junction,Main Central Road (SH 1),SH,32,4,112,8.542051299999999,76.94570860000002
+219,Ernakulam,Aluva,80m after IOCL - Ambattukavu Metro Station,Ambattukavu,National Highway 544 (NH - 544),NH,28,7,112,10.0801785,76.3398496
+220,Ernakulam,Muvattupuzha,State Bank Of India - MS used cars Showroom,Peezhakapilly,Main Central Road (SH 1),SH,28,7,112,10.0235848,76.56562559999999
+221,Thiruvananthapuram,Medical College,130m after IDBI Bank - Ideal Home Appliances,Ulloor Junction,National Highway 66 (NH 66),NH,33,3,111,8.5298547,76.9286549
+222,Ernakulam,CITY TRAFFIC EAST,Avenue Junction - 100m before BSNL Exchange,"SN Junction, Thrippunithura",National Highway 85 (NH 85),NH,29,8,111,9.9556217,76.3501811
+223,Alappuzha,Punnapra,140m after Reliance - 90m after Chinmaya,Thookkukulam,National Highway 66 (NH 66),NH,29,7,111,9.4617735,76.3492569
+224,Pathanamthitta,PANDALAM,Kanyaka Silk - Indian Oil Petrol Pump,Pandalam Junction,Main Central Road (SH 1),SH,29,7,111,9.2249929,76.678471
+225,Kollam,Kottarakkara PS,120m after Indian Oil Petrol Pump - Rajani School,Kalayapuram,Main Central Road (SH 1),SH,29,6,111,9.0518016,76.7631129
+226,Kozhikode,TRAFFIC STATION,300m before Feroke Police Station( Towards Bridge) - Feroke Post Office,Pettah Feroke,National Highway 66 (NH 66),NH,29,6,111,11.1734548,75.8352429
+227,Thiruvananthapuram,CITY TRAFFIC,Brahmos Aerospace - 110m after Fire And Rescue Station,"Fire And Rescue, Chakkai",Veli - Perumathura road,OR,29,6,111,,
+228,Pathanamthitta,ADOOR,210m after St Mary's Church - Mayooram Auditorium,Kilivayal,Main Central Road (SH 1),SH,25,9,111,9.1233142,76.7437522
+229,Ernakulam,Kalady,HP Fuel Station - Kerala Gramin Bank,Kalady Junction,Main Central Road (SH 1),SH,34,2,110,8.468259399999999,76.9629111
+230,Thiruvananthapuram,City Traffic,VJT Junction - Statue Junction,Statue,National Highway 66 (NH 66),NH,34,2,110,,
+231,Kollam,Chavara PS,60m after Le Arabia - 100m before FKM Auditorium,Vettamukku,National Highway 66 (NH 66),NH,30,6,110,8.5066233,76.9859077
+232,Alappuzha,Kayamkulam,Center,Oachira Premier Junction,National Highway 66 (NH 66),NH,30,5,110,9.125517199999999,76.5097205
+233,Ernakulam,MUNAMBAM,HP Pump - Arya Bhangy Honda Showroom,DevaswomNada Junction,State Highway 63 (SH 63),SH,35,1,109,23.4560874,75.4124471
+234,Thiruvananthapuram,Pettah,Pettah Railway Station Junction - Indian Oil Petrol Pump,Naalumukku,Palayam - Airport Rd,OR,31,4,109,8.487535099999999,76.9422498
+235,Ernakulam,ANGAMALI,80m before Karukutty Junction - Maxx Inn M Star Hotels,Karukutty Junction,National Highway 544 (NH - 544),NH,27,8,109,10.2269766,76.37487329999999
+236,Thiruvananthapuram,KAZHAKUTTOM,"KR Bakers - BSNL Telephone Exchange, Karyavattom",Ambalathinkkara,National Highway 66 (NH 66),NH,27,7,109,8.5644876,76.881104
+237,Ernakulam,CITY TRAFFIC EAST,ICICI Bank - St Mary's Church,North Kalamassery,National Highway 544 (NH - 544),NH,32,5,108,10.0563318,76.3171144
+238,Alappuzha,HARIPPAD,IOC Pump - Harippad Government Boys High School,"Madhava Junction, Harippad",National Highway 66 (NH 66),NH,32,3,108,9.2826426,76.4543159

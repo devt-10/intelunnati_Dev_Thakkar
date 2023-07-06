@@ -1,0 +1,36 @@
+"S.
+No.",Name of the District,Juridiction/ Police Station,Location of accidents including chainage (km to km),"NH
+No.",No. of fatalities during 2011,Reasons for frequent accidents,Latitude,Longitude
+1,Ambala,,"In front of Bus/Railway Station,
+Ambala",1.0,23.0,"Excessive Traffic, Absence of Underground Sub-way",30.3752011,76.782122
+2,Kurukshetra,,"Bus Stand, Islamabad",65.0,36.0,"Excessive Traffic, Narrow roads,
+Absence of Service Lane",33.6844202,73.04788479999999
+3,Hisar,,"Barwala Chowk
+Bypass",10.0,19.0,"High speed vehicles, no traffic light, no
+flyovers",30.588774,76.846836
+4,Hisar,,"Bus Terminal, Hansi",10.0,19.0,"Excessive traffic, no traffic light or",29.0972618,75.9638162
+5,Panchkula,,Ram Garh Chowk,22.0,13.0,"Excessive traffic, narrow chowk,
+absence of service lines",25.0980474,86.07312800000001
+6,Kaithal,,Ambala Bypass Naka,65.0,27.0,"Excessive traffic, absence of traffic light",30.3615125,76.7338536
+7,Kaithal,,Titaram More,65.0,26.0,"Excessive traffic, absence of traffic light, chowk not according to IRC",29.8042758,76.4039016
+8,Kaithal,,Shahar Pundari,65.0,51.0,"Excessive traffic, no railing, no FOBs,
+no traffic lights",29.7621028,76.55460310000001
+9,Sonepat,,Bahalgarh Chowk,,67.0,"Excessive traffic, no FOB",28.9611609,77.0932643
+10,Sonepat,,Hasanpur Cut,1.0,10.0,"Excessive traffic, no FOB",28.99308229999999,77.0150735
+11,Panipat,,Gaon Siwah Cut,1.0,14.0,"Excessive traffic, absence of sub-way",29.3411553,76.9831816
+12,Panipat,,Sector 29 Cut,1.0,16.0,"Excessive traffic, no sub way or FOB",28.4669058,77.0662896
+13,Panipat,,Police Line Cut,1.0,24.0,"Excessive traffic, no sub way or FOB",29.3909464,76.9635023
+14,Panipat,,Gaon Jattipur Cut,1.0,16.0,"Excessive traffic, no sub way or FOB",29.3909464,76.9635023
+15,Palwal,,"Kitwabi Chowk,
+Aligarh Road",2.0,7.0,"Excessive traffic, no flyover",28.1472852,77.3259878
+16,Palwal,,Bus Terminal,2.0,7.0,"Excessive traffic, no flyover",28.1472852,77.3259878
+17,Faridabad,,Mewla Road Cut,2.0,31.0,"Excessive traffic, no FOB",28.4089123,77.3177894
+18,Faridabad,,DLF Cut,2.0,30.0,"Excessive traffic, no FOB",28.4089123,77.3177894
+19,Faridabad,,YMCA Chowk,2.0,60.0,"Excessive traffic, no FOB, no traffic",28.368198,77.315215
+20,Faridabad,,Gaon Sikri Cut,2.0,54.0,"Excessive traffic, no FOB, no traffic",28.4089123,77.3177894
+21,Faridabad,,Mewla Road Cut,2.0,31.0,"Excessive traffic, no FOB, no traffic",28.4089123,77.3177894
+22,Gurgaon,,Narsinghpur,8.0,18.0,"Excessive traffic, no sub-way, no FOB",22.9473179,79.1923266
+23,Gurgaon,,Khadsa Bus Stand,8.0,51.0,"Excessive traffic, no sub-way, no FOB",28.4594965,77.0266383
+24,Gurgaon,,Hero Honda Chowk,8.0,105.0,"Excessive traffic, no sub-way, no FOB",28.4293272,77.0201384
+25,Gurgaon,,Rajeev Chowk,8.0,86.0,"Excessive traffic, no sub-way, no FOB",28.6304203,77.21772159999999
+Note: FOB = Foot Over Bridge,,,,,,,,
